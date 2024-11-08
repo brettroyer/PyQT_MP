@@ -1,3 +1,10 @@
+# Credit: 
+### This project is a copy of https://github.com/IanAtDazed/parallel-processing-pyqt/tree/main repository edited to use multiporocessing.
+
+
+
+### Review the README from the original project below
+
 # parallel-processing-pyqt: Parallel Processing From PyQt5
 
 ## Introduction
